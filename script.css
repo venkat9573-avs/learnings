@@ -1,0 +1,25 @@
+body{
+    margin: auto;
+    padding: 5px;
+    border: 10px sienna;
+    border-radius: 25%;
+    display:grid;
+    grid-template-columns: repeat(1, 2f);
+    
+    
+}
+:a hover{
+    list-style: none;
+    background-color: red;
+}
+.list ul{
+    list-style: none;
+    
+}
+.images-1{
+    border-radius: 25%;
+    /* margin: auto; */
+    width: 100px;
+    height: 100px;
+
+}
